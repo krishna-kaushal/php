@@ -1,0 +1,60 @@
+.header {
+	border: 2px solid red;
+	display: block;
+	text-align: center;
+	padding-top:0px;
+	padding-bottom:0px;
+	font-size:30px;
+	margin: 1px;
+}
+
+.navbar {
+	border: 2px solid blue;
+	display: block;
+	text-align: center;
+	font-size:30px;
+	margin: 1px;
+}
+
+.footer {
+	border: 2px solid blue;
+	display: block;
+	text-align: center;
+	font-size:30px;
+	margin: 1px;
+}
+
+.sidebar {
+	border: 2px solid orange;
+	display: inline-block;
+	text-align: center;
+	left: 0px;
+	width: 20.2%;
+	padding-top:178px;
+	padding-bottom:178px;
+	font-size:30px;
+	top: 0px;
+}
+
+.sidebar ul li a{
+	text-decoration:none;
+}
+
+
+
+.sidebar ul{
+	list-style-type:none;
+}
+
+.content {
+	border: 2px solid cyan;
+	display: inline-block;
+	text-align: center;
+	font-size: 30px;
+	right: 0px;
+	width: 79%;
+	padding-top:195px;
+	padding-bottom:195px;
+	top:0px;
+	float: right;
+}

@@ -1,0 +1,43 @@
+<html>
+<body>
+<h1> Fill Your Details:- </h1>
+<style>
+input{
+	padding:5px 20px;
+}
+.btn{
+	padding:5px 51px;
+}
+textarea{
+	padding:27px;
+}
+</style>
+
+<form action = "login.php" method = "post">
+
+Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <input type = "text" name = "t1"><br><br>
+Password    : <input type = "password" name = "t2"><br><br>
+Gender &nbsp;&nbsp;&nbsp; : 
+<input type="radio" value="male" name="gender">
+<label for="male">male</label>
+<input type="radio" value="female" name="gender">
+<label for="female">female</label><br><br>
+Hobbies  &nbsp;&nbsp;:
+<input type="checkbox" name="facebook" value="facebook">
+<label for="vehicle1"> Facebook</label>
+<input type="checkbox" name="whatsapp" value="whatsapp">
+<label for="vehicle2"> WhatsApp</label>
+<input type="checkbox" name="instagram" value="instagram">
+<label for="vehicle3"> Instagram</label>
+<input type="checkbox" name="linkedin" value="linkedin">
+<label for="vehicle3"> Linkedin</label><br><br>
+City &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 
+<input type = "text" name = "city"><br><br>
+<label for = "address">Address  &nbsp;&nbsp;: </label>
+<pre>           <textarea type = "text" name = "address"></textarea></pre>
+
+<br><br>
+<input type = "submit" value="submit" name="submit" class="btn">
+<input type = "submit" value="cancel" name="cancel" class="btn">
+</body>
+</html>

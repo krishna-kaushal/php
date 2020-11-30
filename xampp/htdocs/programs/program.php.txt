@@ -1,0 +1,4 @@
+<?php
+echo "Hello Friends";
+echo "<br>How are You";
+?>

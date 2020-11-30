@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b81a304d-61f4-4b9c-ad02-5aab9ad23807" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1j875SDBoNhSaUIgrcJ08rJtiyN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b81a304d-61f4-4b9c-ad02-5aab9ad23807" name="Default Changelist" comment="" />
+      <created>1603173681426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603173681426</updated>
+      <workItem from="1603173694044" duration="289000" />
+      <workItem from="1603192371412" duration="2147000" />
+      <workItem from="1603211187193" duration="675000" />
+      <workItem from="1603211923940" duration="317000" />
+      <workItem from="1603212312399" duration="231000" />
+      <workItem from="1603212610648" duration="58000" />
+      <workItem from="1603212710800" duration="167000" />
+      <workItem from="1603212915904" duration="291000" />
+      <workItem from="1603213269119" duration="2859000" />
+      <workItem from="1603216749044" duration="5503000" />
+      <workItem from="1603343169740" duration="6020000" />
+      <workItem from="1603372840064" duration="6193000" />
+      <workItem from="1603429173812" duration="2949000" />
+      <workItem from="1603434485153" duration="6016000" />
+      <workItem from="1603442592231" duration="12083000" />
+      <workItem from="1603690905601" duration="8236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="84" key="#CLI_Interpreters" timestamp="1603192414883">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="84" key="#CLI_Interpreters/0.0.1600.860@0.0.1600.860" timestamp="1603192414883" />
+    <state x="507" y="72" key="#PHP" timestamp="1603192422409">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="72" key="#PHP/0.0.1600.860@0.0.1600.860" timestamp="1603192422409" />
+    <state x="176" y="271" key="#SQL_Dialects" timestamp="1603345564230">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="176" y="271" key="#SQL_Dialects/0.0.1600.860@0.0.1600.860" timestamp="1603345564230" />
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603192621885">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1603192621885" />
+    <state x="624" y="331" key="Github.CreateGistDialog" timestamp="1603211300631">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="624" y="331" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1603211300631" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1603466669414">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1603466669414" />
+    <state x="509" y="85" key="SettingsEditor" timestamp="1603213229319">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="509" y="85" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1603213229319" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1603468659128">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1603468659128" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1603438734056">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1603438734056" />
+  </component>
+</project>
